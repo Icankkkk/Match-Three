@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ddab2a8b8bc887e43879ccd64b294b8d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Carissa FREE
+  fontNames:
+  - Carissa FREE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4508788f7f59a2443b371664c37fa6a0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
